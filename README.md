@@ -1,16 +1,16 @@
 # Licence
 
-<img src="https://iconejey.github.io/img/the-mute-bow.gif"/>
+<img width="192" src="https://the-mute-bow.com/pwa/img/icon/icon1024.png"/>
 
 ### EN:
 
-The Mute Bow is a creation of [Nicolas Gouwy](https://github.com/Iconejey) and is free to play on [the-mute-bow.github.io](https://the-mute-bow.github.io/). Any copy without the mention of my name and any use or distribution for profit without my permission will lead to claim for any profits made or to prosecution.
+The Mute Bow is a mobile game / website created by [Nicolas Gouwy](https://github.com/Iconejey) and is playable for free on Android devices via [the-mute-bow.com](https://the-mute-bow.com/pwa).
 
 ### FR:
 
-The Mute Bow est une création de [Nicolas Gouwy](https://github.com/Iconejey) et est jouable gratuitement sur [the-mute-bow.github.io](https://the-mute-bow.github.io/). Toute copie sans la mention de mon nom et toute utilisation ou distribution à but lucratif sans ma permission entraînera une réclamation pour les bénéfices réalisés ou des poursuites.
+The Mute Bow est un jeu mobile / site web créé par [Nicolas Gouwy](https://github.com/Iconejey) jouable gratuitement sur Android via [the-mute-bow.com](https://the-mute-bow.com/pwa).
 
-### AUDIO:
+### AUDIO CREDITS:
 
 > "Art of Silence - by Uniq" is under a Creative Commons license (Creative Commons – International Recognition 4.0 – CC BY 4.0)<br/>https://www.youtube.com/watch?v=3V-pYCGx0C4
 
