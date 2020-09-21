@@ -12,9 +12,16 @@ The Mute Bow est un jeu mobile / site web créé par [Nicolas Gouwy](https://git
 
 ### AUDIO CREDITS:
 
-> "Art of Silence - by Uniq" is under a Creative Commons license (Creative Commons – International Recognition 4.0 – CC BY 4.0)<br/>https://www.youtube.com/watch?v=3V-pYCGx0C4
+> "Art of Silence - by Uniq" is under a Creative Commons license (Creative Commons – International Recognition 4.0 – CC BY 4.0)\
+> https://www.youtube.com/watch?v=3V-pYCGx0C4
 
-> CO.AG Music - Dark Rage<br/>https://www.youtube.com/watch?v=zXZsUCwRkPs
+> CO.AG Music - Dark Rage\
+> https://www.youtube.com/watch?v=zXZsUCwRkPs
 
-> Meditation Impromptu 01 by Kevin MacLeod (incompetech.com)<br/><br/>Rain and thunder by Reinsamba<br/>https://freesound.org/people/reinsamba/sounds/17084/<br/><br/>
-> Mixed by Plugnplaymusic<br/>https://www.youtube.com/plugnplaymusic
+> Meditation Impromptu 01 by Kevin MacLeod (incompetech.com)\
+>
+> Rain and thunder by Reinsamba\
+> https://freesound.org/people/reinsamba/sounds/17084/\
+>
+> Mixed by Plugnplaymusic\
+> https://www.youtube.com/plugnplaymusic
