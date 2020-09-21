@@ -18,10 +18,10 @@ The Mute Bow est un jeu mobile / site web créé par [Nicolas Gouwy](https://git
 > CO.AG Music - Dark Rage\
 > https://www.youtube.com/watch?v=zXZsUCwRkPs
 
-> Meditation Impromptu 01 by Kevin MacLeod (incompetech.com)\
+> Meditation Impromptu 01 by Kevin MacLeod (incompetech.com)
 >
 > Rain and thunder by Reinsamba\
-> https://freesound.org/people/reinsamba/sounds/17084/\
+> https://freesound.org/people/reinsamba/sounds/17084/
 >
 > Mixed by Plugnplaymusic\
 > https://www.youtube.com/plugnplaymusic
